@@ -1,11 +1,8 @@
-# test_your_gk
 
-A new Flutter application.
+# test_your_gk
+test_your_gk is a simple quiz app made with Flutter, which asks you certain specific questions to test your gk and then ultimately give you a score according to how many questions you answered correctely
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
